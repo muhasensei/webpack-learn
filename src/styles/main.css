@@ -1,0 +1,13 @@
+@import 'font.css';
+@import "~normalize.css";
+body {
+    background: antiquewhite;
+    margin: 20px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo {
+    background-image: url("../additional/webpack-logo.png");
+    background-size: cover;
+}
